@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    background-color: #800080;
+    background-color: blue;
 }
 .card {
   width: 28%;
@@ -34,7 +34,7 @@ a{
   display: inline-block;
   text-decoration:none;
   padding: 10px 20px;
-  color: #0000FF;
+  color: blue;
   background-color: #3d3c;
   text-transform: uppercase; 
   }
