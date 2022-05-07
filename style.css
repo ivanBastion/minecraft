@@ -9,7 +9,7 @@ body {
   width: 28%;
   display: inline-block;
   border-radius: 10px;
-  background-color: #800080;
+  background-color: #0000FF;
   transition:0.4s;
   margin: 20px;
   border: 1px solid #222222;
@@ -34,7 +34,7 @@ a{
   display: inline-block;
   text-decoration:none;
   padding: 10px 20px;
-  color: #800080;
+  color: #0000FF;
   background-color: #3d3c;
   text-transform: uppercase; 
   }
